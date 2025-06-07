@@ -1,4 +1,6 @@
-📘 Library Management System using SQL
+Project Title: Library Management System
+Level: Intermediate
+Database: library_db
 Role: SQL Developer
 Tools & Technologies: PostgreSQL, PL/pgSQL, ER Diagrams, SQL (DDL, DML, CTAS, Stored Procedures)
 
