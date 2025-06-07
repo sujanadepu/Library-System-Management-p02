@@ -1,6 +1,6 @@
-Library Management System using SQL
-Role: SQL Developer
-Tools & Technologies: PostgreSQL, PL/pgSQL, ER Diagrams, SQL (DDL, DML, CTAS, Stored Procedures)
+Project Title: Library Management System
+Level: Intermediate
+Database: library_db
 
 Project Overview:
 Designed and implemented a comprehensive Library Management System using SQL to manage library operations such as book issuance, return tracking, member management, and revenue reporting. The system features normalized relational schemas and advanced SQL logic to simulate real-world data workflows.
