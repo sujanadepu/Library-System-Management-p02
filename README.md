@@ -31,11 +31,16 @@ Showcased the ability to manage data integrity with foreign keys and constraints
 
 Improved analytical capabilities through dynamic reporting and automation.
 
-## Project Structure
+![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+
 
 ### 1. Database Setup
+![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
+
+
 
 ```sql
 CREATE DATABASE library_db;
