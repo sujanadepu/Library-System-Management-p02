@@ -1,4 +1,4 @@
-📘 Library Management System using SQL
+Library Management System using SQL
 Role: SQL Developer
 Tools & Technologies: PostgreSQL, PL/pgSQL, ER Diagrams, SQL (DDL, DML, CTAS, Stored Procedures)
 
